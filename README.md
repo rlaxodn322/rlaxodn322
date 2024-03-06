@@ -1,7 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaxodn322&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaxodn322&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hello there 👋
 
 Welcome to my GitHub profile! I'm Taewoo Kim, a passionate developer from Korea.
@@ -15,5 +11,9 @@ Welcome to my GitHub profile! I'm Taewoo Kim, a passionate developer from Korea.
 -💬 Feel free to ask me about anything related to my interests, projects, or programming in general.
 
 Let's connect and collaborate to make the coding world even more exciting! 🌟
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaxodn322&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaxodn322&show_icons=true&theme=radical)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rlaxodn322.rlaxodn322)
