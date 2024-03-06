@@ -7,8 +7,11 @@
 Welcome to my GitHub profile! I'm Taewoo Kim, a passionate developer from Korea.
 
 -🔭 I'm currently working on an electric bus project.
+
 -🚀 In this project, I utilize React, Next.js, TypeScript, and Node.js (Express.js).
+
 -🌱 I'm continuously learning and exploring new technologies to enhance my skills and contribute more to the development community.
+
 -💬 Feel free to ask me about anything related to my interests, projects, or programming in general.
 
 Let's connect and collaborate to make the coding world even more exciting! 🌟
