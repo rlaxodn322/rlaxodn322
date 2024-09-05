@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Taewoo Kim, a passionate developer based in Ko
 
 🔭 I've embarked on various projects including mobile wedding invitations, e-commerce marketplace, to-do list applications, restaurant discovery maps, emotional diary apps, weather apps, and currently, I'm actively involved in an electric bus project.
 
-🚀 I predominantly utilize a tech stack comprising React, Next.js, TypeScript, and Node.js (Express.js).
+🚀 I predominantly utilize a tech stack comprising React, Next.js, TypeScript, and Node.js (Express.js, nest.js).
 
 🌱 I'm dedicated to continuous learning and exploration of new technologies to enhance my skills and make greater contributions to the development community.
 
