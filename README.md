@@ -1,6 +1,15 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rlaxodn322.rlaxodn322)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/rlaxodn322?pet-id=646541808064776803"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
+  
 Hello there! 👋 Welcome to my GitHub profile. I'm Taewoo Kim, a full-stack developer based in Korea.
 
 🔭 I have participated in various projects including a chat platform, a stray dog information platform, a place search platform, a weather information platform, a car ferry monitoring platform, an electric bus project, mobile wedding invitations, an e-commerce marketplace, a to-do list application, a restaurant discovery map, an emotional diary app, and more. Currently, I am actively contributing to an integrated monitoring platform for electric wheelchairs.
