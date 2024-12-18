@@ -1,11 +1,11 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rlaxodn322.rlaxodn322)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/rlaxodn322?pet-id=646541808064776803"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/rlaxodn322"
+  width="600"
+  height="300"
+/>
 </a>
   
 
